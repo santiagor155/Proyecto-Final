@@ -1,0 +1,136 @@
+     body {
+     background-color:rgb(255, 255, 255);
+     padding:2px;
+     
+     
+     }
+   .caja{
+     border: 3px;
+     color: black;
+   }
+
+     p {
+     color: red;
+}
+    
+    h1{
+     color:rgb(89, 94, 102);
+     font-family: 'Heebo', sans-serif;
+     text-align:center;
+     margin-top: 2px;
+     margin-bottom: 8px;
+     margin-right: 30px;
+     margin-left: 180px;
+      
+     }
+    
+     .grid-layout{
+          display: grid;
+          grid-template-columns: auto auto;
+          grid-template-rows: auto ;
+          height: auto;
+          border: 0px;
+          color: black;
+          justify-content: center;
+     }
+
+
+     .messi{ width: 150px;
+          height:150px ;
+          float: right;
+          border-radius: 50% ;
+          margin: -5px 33px 5px 5px;
+     }
+
+     .caja1{
+          width:300px;
+          height: 142px;
+          background-color:rgb(192, 209, 226);
+          margin: -1px;
+          padding: 15px;
+          border-radius:4% 0% 0% 0%;
+          border:6px solid lightslategray;
+          border-bottom:0px;
+     }
+     
+     .caja2{
+          background-color:lightslategray;
+          width:794px;
+          margin: -1px;
+          height: 144px;
+          border-left:  6px solid rgba(182, 199, 230, 0.623);
+          border-right:  6px solid rgba(182, 199, 230, 0.623);
+          border-top: 6px solid rgba(182, 199, 230, 0.623);
+          padding: 15px;
+
+     
+     }
+     .caja3{
+          background-color:rgb(192, 209, 226);
+          width:300px;
+          height: 340px;
+          border-right: 6px solid lightslategray;
+          margin: -1px;
+          margin-right: -9px;
+          border-top: 6px solid lightslategray;
+          padding: 15px;
+          border-left: 6px solid lightslategray;
+          border-bottom: 6px solid lightslategray;
+     }
+     .caja4{
+          background-color:lightslategray;
+          width:794px;
+          height: 240;
+          border: 6px solid rgba(182, 199, 230, 0.623);
+          margin: -1px;
+          padding: 15px;
+          border-radius:0% 0% 2% 0%;
+     }
+
+     h2{
+          font-family: 'Heebo', sans-serif;
+          color: white ;
+          font-size: 30px;
+          line-height: 20px;
+     }
+
+     h3{
+          font-family: 'Heebo', sans-serif;
+          size: 30px;
+          line-height: 20px;
+          opacity: 40%;
+          color: white;
+     }
+
+     h4{
+          font-family: 'Heebo', sans-serif;
+          font-size: 21px;
+          line-height: 40px;
+          margin-left: 20px;
+          color: rgb(97, 111, 124);
+     }
+
+     p{  
+          font-family: 'Heebo', sans-serif;
+          color: white ;
+          font-size: 23px;
+          margin-top: 20px;
+          margin-left: 15px;
+          margin-bottom:auto;
+          margin-right: auto;
+     }
+
+     .linkedin{
+          width: 45px;
+          height:45px ;
+          margin-top: 100px;
+          margin-left: -4px;
+          margin-bottom: -4px;
+     }
+
+     p#oscuro{
+          color: black;
+          margin: 10px 100px 2px 3px;
+          float:right;
+          
+     }
